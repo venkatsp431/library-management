@@ -6,7 +6,7 @@ export default function Base({ children }) {
     <div>
       <Navbar bg="light" expand="lg">
         <Container fluid>
-          <Navbar.Brand href="/">Library Management</Navbar.Brand>
+          <Navbar.Brand href="/">Library Management-Using Redux</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
         </Container>
       </Navbar>
